@@ -12,7 +12,7 @@ A curated list of mods compatible with GTA-UG:
 - [Skins](#skins)
 
 ## Graphical
-	- SkyGrad
-	- Project 2DFX (https://thirteenag.github.io/p2dfx)
+- SkyGrad
+- Project 2DFX (https://thirteenag.github.io/p2dfx)
 ## Sounds
 ## Skins
